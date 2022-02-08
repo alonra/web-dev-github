@@ -1,2 +1,6 @@
 first commit
+<<<<<<< HEAD
 next commit
+=======
+again checkgitt add commit
+>>>>>>> feature
